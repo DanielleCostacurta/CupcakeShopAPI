@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garci\\Projeto Danielle\\CupcakeShop.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02532C16-4692-4A88-95BE-A065558BA8EE}|CupcakeShop.API\\CupcakeShop.API.csproj|c:\\users\\garci\\projeto danielle\\cupcakeshop.api\\cupcakeshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02532C16-4692-4A88-95BE-A065558BA8EE}|CupcakeShop.API\\CupcakeShop.API.csproj|solutionrelative:cupcakeshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\garci\\Projeto Danielle\\CupcakeShop.API\\CupcakeShop.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CupcakeShop.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\garci\\Projeto Danielle\\CupcakeShop.API\\CupcakeShop.API\\appsettings.json",
+              "RelativeToolTip": "CupcakeShop.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T18:36:06.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
