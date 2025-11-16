@@ -56,16 +56,9 @@ O banco possui 6 tabelas principais:
 - **orders** - Pedidos dos clientes
 - **order_items** - Itens de cada pedido
 
-### Script SQL
+### Modelo do banco
 
-Localização: `../database/cupcake_shop_dotnet.sql`
-
-**Executar:**
-```bash
-mysql -u root -p < ../database/cupcake_shop_dotnet.sql
-```
-
----
+Localização: EER MySQL
 
 ## ⚙️ Configuração
 
@@ -428,4 +421,5 @@ Projeto educacional - MIT License
 ---
 
 ## 
+
 
