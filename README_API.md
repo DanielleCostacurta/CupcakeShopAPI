@@ -427,8 +427,5 @@ Projeto educacional - MIT License
 
 ---
 
-## 👨‍💻 Desenvolvido com
+## 
 
-- ❤️ Paixão por código
-- ☕ Muito café
-- 🧁 E cupcakes, claro!
